@@ -1,0 +1,10 @@
+{
+	"name":"multicopy",
+	"author":"justarandomgeek",
+	"version":"0.14.0",
+	"title":"MultiCopy Tool",
+	"homepage":"",
+	"description":"Copy an entity's settings and paste it to all identical/compatible entities in the selected area",
+	"dependencies": ["base"],
+  "factorio_version": "0.14"
+}
